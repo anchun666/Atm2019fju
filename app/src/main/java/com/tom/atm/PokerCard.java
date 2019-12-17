@@ -25,9 +25,9 @@ public class PokerCard extends ConstraintLayout {
         rightPoint = findViewById(R.id.point_right_bottom);
     }
 
-    public int getValue() {
+   /* public int getValue() {
         return value;
-    }
+    }*/
 
     public void setValue(int value) {
         this.value = value;
